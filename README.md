@@ -1,6 +1,6 @@
 # Wideroe.Interview
-git clone
-dotnet build
+git clone\
+dotnet build\
 dotnet test
 
 # Missing dotnet sdk?
